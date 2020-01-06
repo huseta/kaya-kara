@@ -1,0 +1,31 @@
+{
+  "name": "taylosov",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "taylo": "echo 'tayyy' ",
+    "startt": "node index"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "te",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.4",
+    "nodemailer": "^6.4.2",
+    "simple-is": "^0.2.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/huseta/kaya-kara.git"
+  }
+
+  
+}
